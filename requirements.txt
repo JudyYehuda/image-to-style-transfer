@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+pillow
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+diffusers[torch]
+transformers
+accelerate
+peft
+
+# Jupyter
+notebook
+ipywidgets
+
+# Image Processing
+opencv-python
+
+# File System
+gdown 
